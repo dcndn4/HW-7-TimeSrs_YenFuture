@@ -11,7 +11,11 @@ The goal of these analysis tools is to provide information about Yen exchange ra
 
 ### Part I - Time-Series Forecasting
 
+I plotted the Settle price fluctuation of the Yen, from 1990 to today:
 
+![Settle Prices](Images/Yen_Futures_Settle_Prices_S_sp.png)
+
+The patterns I noted were substantial volatility in the shorter-term, and an upward thrust in general over the long term.
 
 ### Part II - Linear Regression Forecasting
 
