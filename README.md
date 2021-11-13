@@ -1,5 +1,6 @@
 # HW-7-TimeSrs_YenFuture
 Homework # 7 on Unit # 10 Time Series Yen for the Future
+![Focus on Future Rates](Images/unit-10-readme-photo.png)
 
 # Predicting future movements in the value of the Japenese Yen in relation to the US Dollar
 
