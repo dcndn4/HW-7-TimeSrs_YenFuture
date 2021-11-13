@@ -17,6 +17,10 @@ I plotted the Settle price fluctuation of the Yen, from 1990 to today:
 
 The patterns I noted were substantial volatility in the shorter-term, and an upward thrust in general over the long term.
 
+In comparing the settle price to the trend line derived from the Hodrick-Prescott Filter, that upward direction is very clear.
+
+
+
 ### Part II - Linear Regression Forecasting
 
 
