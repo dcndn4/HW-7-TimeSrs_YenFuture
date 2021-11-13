@@ -19,7 +19,7 @@ The patterns I noted were substantial volatility in the shorter-term, and an upw
 
 In comparing the settle price to the trend line derived from the Hodrick-Prescott Filter, that upward direction is very clear.
 
-
+![Settle Prices with Trend Line indicated](Images/Settle%20Price%20vs.%20Trend%20-%202015-2020.png)
 
 ### Part II - Linear Regression Forecasting
 
