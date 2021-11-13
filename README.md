@@ -47,6 +47,4 @@ Besides the elements related to those libraries, additional data to be input by 
 
 # Acknowledgements
 
-I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom essential as ever. Regarding Time Series and Machine Learning overall I utilized 
-
-information from codemy and the tech website collective in general. Finally, the Pandas books section on Time Series was helpful (SQL Quickstart Guide by Shields, Essential SQL Alchemy by Myers and Copeland and SQL Cookbook by Molinaro were helpful as I continued in the early phases of my learning process. 
+I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom essential as ever. Regarding Time Series and Machine Learning overall I utilized information from codemy and the tech website collective in general. The Pandas books section on Time Series were helpful. And finally, Weapons of Math Destruction by Cathy O'Neil was a great source for context regarding modeling and the inherent challenges facing our communities.
