@@ -27,6 +27,12 @@ BIC (Bayesian Information Criterion) levels of approximately 15000 (ARMA) and 83
 
 data has too many parameters. However in both cases the projections show an uptick in exchange rate futures. 
 
+My GARCH Analysis results:
+
+![GARCH Volatility Forecast](Images/GARCH%20Volatility%20forecast.png)
+
+From GARCH my conclusion is that although there is significant volatility, the Japanese Yen's significant upside makes it a worthwhile investment even so.
+
 ### Part II - Linear Regression Forecasting
 
 
