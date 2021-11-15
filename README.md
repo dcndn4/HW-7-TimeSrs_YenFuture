@@ -23,7 +23,9 @@ In comparing the settle price to the trend line derived from the Hodrick-Prescot
 
 I forecasted Returns using the ARMA model and the Settle Price using the ARIMA model - initial results yielded AIC (Akaike Information Criterion) and
 
-BIC (Bayesian Information Criterion) level that argued against the usefulness of these models for trading without further iterations and improvements, as the current data has too many parameters.
+BIC (Bayesian Information Criterion) levels of approximately 15000, which argued against the usefulness of these models for trading without further iterations and improvements, as the current 
+
+data has too many parameters.
 
 ### Part II - Linear Regression Forecasting
 
