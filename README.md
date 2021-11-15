@@ -21,6 +21,8 @@ In comparing the settle price to the trend line derived from the Hodrick-Prescot
 
 ![Settle Prices with Trend Line indicated](Images/Settle%20Price%20vs.%20Trend%20-%202015-2020.png)
 
+I forecasted Returns using the ARMA model and the Settle Price using the ARIMA model - initial results yielded AIC and BIC level that argued against the usefulness of these models for trading without further iterations and improvements. 
+
 ### Part II - Linear Regression Forecasting
 
 
