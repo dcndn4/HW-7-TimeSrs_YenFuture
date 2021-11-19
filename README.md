@@ -31,6 +31,7 @@ From GARCH my conclusion is that although there is significant volatility, the J
 
 ### Part II - Linear Regression Forecasting
 
+I also built a linear regression model to further explore Yen futures (using Scikit-Learn). It was run on data consisting of returns vs. lagged-returns (returns 1 day earlier), which were split into training data sets (feed into the predictive model) and test data (run on the model afterwards, to test its accuracy) by a time period definition. 
 
 # Technical Notes
 
