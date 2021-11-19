@@ -21,17 +21,13 @@ In comparing the settle price to the trend line derived from the Hodrick-Prescot
 
 ![Settle Prices with Trend Line indicated](Images/Settle%20Price%20vs.%20Trend%20-%202015-2020.png)
 
-I forecasted Returns using the ARMA model and the Settle Price using the ARIMA model - initial results yielded AIC (Akaike Information Criterion) and
-
-BIC (Bayesian Information Criterion) levels of approximately 15000 (ARMA) and 83000 (ARIMA) which argued against the usefulness of these models for trading without further iterations and improvements, as the current 
-
-data has too many parameters. However in both cases the projections show an uptick in exchange rate futures. 
+I forecasted Returns using the ARMA model and the Settle Price using the ARIMA model - initial results yielded AIC (Akaike Information Criterion) and BIC (Bayesian Information Criterion) levels of approximately 15000 (ARMA) and 83000 (ARIMA) which argued against the usefulness of these models for trading without further iterations and improvements, as the current data has too many parameters. However in both cases the projections show an uptick in exchange rate futures. 
 
 My GARCH Analysis results:
 
 ![GARCH Volatility Forecast](Images/GARCH%20Volatility%20forecast.png)
 
-From GARCH my conclusion is that although there is significant volatility, the Japanese Yen's significant upside makes it a worthwhile investment even so.
+From GARCH my conclusion is that although there is significant volatility, the Japanese Yen's substantial upside makes it a worthwhile investment even so.
 
 ### Part II - Linear Regression Forecasting
 
