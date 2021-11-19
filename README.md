@@ -31,28 +31,43 @@ From GARCH my conclusion is that although there is significant volatility, the J
 
 ### Part II - Linear Regression Forecasting
 
-I also built a linear regression model to further explore Yen futures (using Scikit-Learn). It was run on data consisting of returns vs. lagged-returns (returns 1 day earlier), which were split into training data sets (feed into the predictive model) and test data (run on the model afterwards, to test its accuracy) by a time period definition. 
+I also built a linear regression model to further explore Yen futures (options), using Scikit-Learn. It was run on data consisting of returns vs. lagged-returns (returns 1 day earlier), which were split into training data sets (feed into the predictive model) and test data (run on the model afterwards, to test its accuracy) by a time period definition. 
+
+My results were as follows:
+
+In-sample (training) data:
+
+** MSE .37
+
+** RMSE .61
+
+Out-of-sample (testing) date:
+
+** MSE .17
+
+** RMSE .41
+
+This model performed better on in-sample data (training data) then out-of-sample data (test data). 
 
 # Technical Notes
 
 ## Libraries
 This Jupyter Lab notebook utilizes the following libraries:
 
-os
+ --   arch
 
-Pandas
+ --   statsmodels.api
 
-Numpy
+ --   sklearn
 
-dotenv (just for comfort level)
+ --   pandas
 
-Pathlib
+ --   Numpy
 
-matplotlib
+ --   Pathlib
 
-## Data Inputs
+ --   matplotlib
 
-Besides the elements related to those libraries, additional data to be input by the user includes their currency holdings, their stocks and bonds amounts, and their monthly income amounts.  
 
 # Acknowledgements
 
